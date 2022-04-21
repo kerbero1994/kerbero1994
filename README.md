@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Redux, React Native, UI/UX, nodejs, espress**
 
-- 👨‍💻 All of my projects are available at [eduglez94.com](eduglez94.com)
+- 👨‍💻 All of my projects are available at [eduglez94.com](https://www.eduglez94.com/)
 
 - 💬 Ask me about **React**
 
