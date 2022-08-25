@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **Sitimm**
+- 🔭 I’m currently working on **DRIFT**
 
 - 🌱 I’m currently learning **React, Redux, React Native, UI/UX, nodejs, espress**
 
