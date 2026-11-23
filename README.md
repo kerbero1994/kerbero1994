@@ -1,50 +1,17 @@
-<h1 align="center">Hi 👋, I'm Eduardo Gonzalez</h1>
-<h3 align="center">Frontend Developer | 8 Years Experience | React · Next.js · Accessibility Advocate</h3>
+# Eduardo González
 
-- 👨‍💻 Computer Systems Engineer focused on building modern, accessible, and high-performance web and mobile applications.  
-- 🧠 8+ years of experience developing full frontend solutions: from scratch to deployment, including requirement gathering, planning, and stakeholder collaboration.  
-- 🧩 Passionate about evolving with modern stacks — from **React/Redux** to **Next.js + Jotai**, working with **T3 Stack** and contributing occasionally to backend logic.  
-- ♿️ Strong focus on **accessibility**, ensuring WCAG AAA compliance across platforms.  
-- 🛠️ Resolved critical bugs under high-pressure environments, always prioritizing user experience.  
-- 🚀 Key contributor in platform migrations and UI/UX refinements with product teams.  
-- 🧪 Always exploring and testing new ideas, keeping a growth mindset.
+Senior frontend engineer focused on accessibility. Today I lead a union's platform with teams of AI agents.
 
-### 🔭 I’m currently open to new challenges!
+**Now (2025–):** the only engineer on SITIMM's platform, a Mexican union of 70,000 members. It's a Next.js website in 8 languages, a React Native app on both stores, and an admin panel, on FastAPI and PostgreSQL. I direct parallel AI agent sessions and hold them to the gates I'd ask of a senior team. Those repos are private: they show up here as private contributions.
 
-- 💬 Ask me about: **React**, **Next.js**, **Tailwind**, **React Native**, **Frontend architecture**  
-- 🌱 Currently exploring: **Edge functions**, **serverless tools**, and **progressive enhancement**
-- 📫 Reach me at: **eduglezzvl@gmail.com**  
+**Before:** Senior Frontend Developer at Drift (Salesloft), 2022–2025. I held the frontend to WCAG AAA and was the go-to engineer for critical bugs.
 
----
+**Portfolio:** [kerbero94.dev](https://kerbero94.dev) has the case studies and the [system design](https://kerbero94.dev/architecture/). Its [source](https://github.com/kerbero1994/kerbero94.dev) is public: static HTML in ten visual styles, and every change is gated on
 
-### 🌐 Connect with me:
+- axe: WCAG 2.2 AA, and AAA contrast in all ten styles
+- Playwright in Chromium, Firefox and WebKit
+- visual regression on 57 screens
+- Lighthouse 100
+- a hash-based Content Security Policy
 
-<p align="left">
-<a href="https://dev.to/eduglez94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eduglez94" height="30" width="40" /></a>
-<a href="https://twitter.com/eduglezzvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eduglezzvl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eduglezzvl94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduglezzvl94" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</p>
-
----
-
-
-
+[eduardo@kerbero94.dev](mailto:eduardo@kerbero94.dev) · [LinkedIn](https://www.linkedin.com/in/eduglezzvl94)
